@@ -1,0 +1,31 @@
+{
+  "name": "quiomnis",
+  "version": "1.10.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "license": "Apache-2.0",
+  "dependencies": {
+    "autquod": "^1.1.0",
+    "fugitexcepturi": "^1.1.0",
+    "graphql-config": "^2.0.1",
+    "prisma-yml": "1.0.50"
+  },
+  "devDependencies": {
+    "@types/node": "9.4.6",
+    "graphql": "0.13.1",
+    "ts-node": "5.0.0",
+    "typescript": "2.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandroGusikowski/quiomnis.git"
+  },
+  "author": "BrayanHammes",
+  "bugs": {
+    "url": "https://github.com/AlexandroGusikowski/quiomnis.git/issues"
+  },
+  "homepage": "https://github.com/AlexandroGusikowski/quiomnis.git"
+}
